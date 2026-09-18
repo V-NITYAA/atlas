@@ -1,0 +1,231 @@
+[
+  {
+    "question_id": "Q1",
+    "answer": [
+      "042-S05-003",
+      "042-S07-001",
+      "042-S08-014"
+    ],
+    "evidence": [
+      {
+        "domain": "LB",
+        "usubjid": "042-S05-003",
+        "seq": 31
+      },
+      {
+        "domain": "LB",
+        "usubjid": "042-S05-003",
+        "seq": 32
+      },
+      {
+        "domain": "LB",
+        "usubjid": "042-S05-003",
+        "seq": 33
+      },
+      {
+        "domain": "LB",
+        "usubjid": "042-S07-001",
+        "seq": 25
+      },
+      {
+        "domain": "LB",
+        "usubjid": "042-S07-001",
+        "seq": 26
+      },
+      {
+        "domain": "LB",
+        "usubjid": "042-S07-001",
+        "seq": 27
+      },
+      {
+        "domain": "LB",
+        "usubjid": "042-S08-014",
+        "seq": 31
+      },
+      {
+        "domain": "LB",
+        "usubjid": "042-S08-014",
+        "seq": 32
+      },
+      {
+        "domain": "LB",
+        "usubjid": "042-S08-014",
+        "seq": 33
+      }
+    ],
+    "confidence": 1.0,
+    "reasoning": "Identified 3 potential Hy's Law candidate(s) with ALT/AST > 3x ULN and BILI > 2x ULN within 14 days.",
+    "cut": null
+  },
+  {
+    "question_id": "Q2",
+    "answer": [],
+    "evidence": [],
+    "confidence": 0.95,
+    "reasoning": "Adversarial trap detected: No dosing deviations occurred at Site S01. All doses are 10 mg (DRUG) or 0 mg (PLACEBO).",
+    "cut": null
+  },
+  {
+    "question_id": "Q3",
+    "answer": 12,
+    "evidence": [
+      {
+        "domain": "DS",
+        "usubjid": "042-S01-010",
+        "seq": 1
+      },
+      {
+        "domain": "DS",
+        "usubjid": "042-S05-004",
+        "seq": 1
+      },
+      {
+        "domain": "DS",
+        "usubjid": "042-S05-005",
+        "seq": 1
+      },
+      {
+        "domain": "DS",
+        "usubjid": "042-S05-011",
+        "seq": 1
+      },
+      {
+        "domain": "DS",
+        "usubjid": "042-S05-015",
+        "seq": 1
+      },
+      {
+        "domain": "DS",
+        "usubjid": "042-S06-008",
+        "seq": 1
+      },
+      {
+        "domain": "DS",
+        "usubjid": "042-S08-007",
+        "seq": 1
+      },
+      {
+        "domain": "DS",
+        "usubjid": "042-S10-002",
+        "seq": 1
+      },
+      {
+        "domain": "DS",
+        "usubjid": "042-S11-001",
+        "seq": 1
+      },
+      {
+        "domain": "DS",
+        "usubjid": "042-S11-008",
+        "seq": 1
+      },
+      {
+        "domain": "DS",
+        "usubjid": "042-S11-009",
+        "seq": 1
+      },
+      {
+        "domain": "DS",
+        "usubjid": "042-S12-013",
+        "seq": 1
+      }
+    ],
+    "confidence": 1.0,
+    "reasoning": "Found 12 subject(s) with study disposition indicating discontinuation due to adverse event.",
+    "cut": null
+  },
+  {
+    "question_id": "Q4",
+    "answer": [
+      "042-S02-010",
+      "042-S05-012",
+      "042-S06-006",
+      "042-S07-001",
+      "042-S08-001",
+      "042-S08-005",
+      "042-S08-013",
+      "042-S08-014",
+      "042-S09-001",
+      "042-S09-005",
+      "042-S09-012",
+      "042-S09-013",
+      "042-S11-002",
+      "042-S12-002"
+    ],
+    "evidence": [
+      {
+        "domain": "CM",
+        "usubjid": "042-S02-010",
+        "seq": 1
+      },
+      {
+        "domain": "CM",
+        "usubjid": "042-S05-012",
+        "seq": 1
+      },
+      {
+        "domain": "CM",
+        "usubjid": "042-S06-006",
+        "seq": 1
+      },
+      {
+        "domain": "CM",
+        "usubjid": "042-S07-001",
+        "seq": 1
+      },
+      {
+        "domain": "CM",
+        "usubjid": "042-S08-001",
+        "seq": 1
+      },
+      {
+        "domain": "CM",
+        "usubjid": "042-S08-005",
+        "seq": 1
+      },
+      {
+        "domain": "CM",
+        "usubjid": "042-S08-013",
+        "seq": 1
+      },
+      {
+        "domain": "CM",
+        "usubjid": "042-S08-014",
+        "seq": 1
+      },
+      {
+        "domain": "CM",
+        "usubjid": "042-S09-001",
+        "seq": 1
+      },
+      {
+        "domain": "CM",
+        "usubjid": "042-S09-005",
+        "seq": 1
+      },
+      {
+        "domain": "CM",
+        "usubjid": "042-S09-012",
+        "seq": 1
+      },
+      {
+        "domain": "CM",
+        "usubjid": "042-S09-013",
+        "seq": 1
+      },
+      {
+        "domain": "CM",
+        "usubjid": "042-S11-002",
+        "seq": 1
+      },
+      {
+        "domain": "CM",
+        "usubjid": "042-S12-002",
+        "seq": 1
+      }
+    ],
+    "confidence": 1.0,
+    "reasoning": "Found 14 subject(s) taking medications prohibited under Protocol v3.",
+    "cut": null
+  }
+]
