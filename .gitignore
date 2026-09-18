@@ -4,3 +4,7 @@ __pycache__/
 .DS_Store
 *.venv/
 env/
+
+doc_dump.txt
+extract_docx.py
+hackathon-data/
